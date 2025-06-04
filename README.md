@@ -17,5 +17,11 @@ I'm a Full Stack Software Engineer passionate about building scalable and modern
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka)
 ![ClickHouse](https://img.shields.io/badge/-ClickHouse-yellow?style=flat-square&logo=clickhouse)
 
+## 🧩 Alternative Experience
+In the past, I’ve also worked with:
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+![Cobol](https://img.shields.io/badge/-Cobol-002B5B?style=flat-square)
+
 ## 📫 Let's Connect
-Feel free to reach out at [tooonjr@gmail.com](mailto:tooonjr@gmail.com) or check my [LinkedIn](https://www.linkedin.com/in/airtondambrovski).
+Feel free to reach out at [tooonjr@gmail.com](mailto:tooonjr@gmail.com) or check my [LinkedIn](https://www.linkedin.com/in/airton-dambrovski).
