@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Airton Dambrovski
+# 👋 Hey there, I'm Airton Dambrovski!
 
-I'm a Full Stack Software Engineer currently working remotely for a Canadian company, building modern, scalable web applications with **TypeScript**, **React**, **Node.js**, and **GraphQL**.
+I'm a Full Stack Software Engineer passionate about building scalable and modern web applications. I enjoy working with technologies like **React**, **Node.js**, and **TypeScript**, and I'm always exploring new tools to push the limits of what I can build.
 
-💡 Passionate about clean architecture, performance optimization, and AI integrations.  
-🌎 Based in Brazil, working with international teams and fast-paced startups.  
-📈 +20 personal and professional projects delivered over the years  
-🛠️ +500 commits across public and private repositories
+- 🚀 Currently working remotely for a Canadian company
+- 🌍 Based in Brazil, working with global teams and international products
+- 🧠 Learning more about AI integrations and system performance at scale
+- 💼 Previously worked on critical systems for logistics, ERP, and research platforms
 
 ## 🧰 Main Tech Stack
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
@@ -19,9 +19,3 @@ I'm a Full Stack Software Engineer currently working remotely for a Canadian com
 
 ## 📫 Let's Connect
 Feel free to reach out at [tooonjr@gmail.com](mailto:tooonjr@gmail.com) or check my [LinkedIn](https://www.linkedin.com/in/airtondambrovski).
-
-<!-- GitHub Stats Section (Optional) -->
-<!--
-## 📊 GitHub Stats
-![Airton's GitHub stats](https://github-readme-stats.vercel.app/api?username=dambrovski&show_icons=true&theme=github_dark&hide_title=true)
--->
